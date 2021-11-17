@@ -1,6 +1,4 @@
-﻿# ,,,,,,,
-# 11/14/2021 18:04:33,,,,,,,
-# The parameters defined in the project are:,,,,,,,
-# ,P1 - rotor_thickness [mm],P2 - rotor_OD [mm],P3 - rotor_ID [mm],P4 - Equivalent Stress Maximum [Pa],P5 - Total Deformation Reported Frequency [Hz],P7 - Solid Volume [m^3],P8 - Temperature Maximum [C]
-DP 0,25,125,75,13089990.63,1590.413022,0.00099667,335.3772888
-DP 1,15.46660247,124.320441,80.37437554,11194720.15,1363.784035,0.000667389,400.8607483
+﻿# ,P1 - rotor_thickness [mm],P2 - rotor_OD [mm],P3 - rotor_ID [mm],P4 - Equivalent Stress Maximum [Pa],P5 - Total Deformation Reported Frequency [Hz],P7 - Solid Volume [m^3],P8 - Temperature Maximum [C]
+Original,25,125,75,13089990.63,1590.413022,0.00099667,335.3772888
+Optimized,15.46660247,124.320441,80.37437554,11194720.15,1363.784035,0.000667389,400.8607483
+Percentage Difference,-38%,-1%,7%,-14%,-14%,-33%,20%
